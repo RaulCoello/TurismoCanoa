@@ -1624,3 +1624,25 @@ img {
   color: #fff;
   font-weight: 20;
 }
+
+/*icon wasac*/
+.whatsapp-float {
+  position: fixed;
+  width: 80px;
+  height: 80px;
+  bottom: 20px;
+  left: 20px;
+  background-color: #25d366;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  text-decoration: none;
+}
+
+.whatsapp-icon {
+  width: 35px;
+  height: 35px;
+}
